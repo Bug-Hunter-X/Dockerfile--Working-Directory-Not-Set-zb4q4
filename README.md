@@ -1,0 +1,1 @@
+This repository demonstrates a common Dockerfile error where the working directory isn't specified.  This leads to issues when copying files and executing commands within the container. The `Dockerfile-solution` provides the corrected version.
